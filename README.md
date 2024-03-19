@@ -6,7 +6,8 @@
 
 # PROJETO POKÉMON
 
-###integrantes:
+### integrantes:
+
 <p align="left" vertical-align= "middle">Alex Ramos da Silva | ars6</p>
 <p align="left" vertical-align= "middle">Alexendra de Souza Cabral | asc5</p>
 <p align="left" vertical-align= "middle">João Victor de Sousa Guedes | jvsg3</p>
